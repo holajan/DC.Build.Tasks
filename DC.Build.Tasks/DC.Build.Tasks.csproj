@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.3</TargetFramework>
+    <AssemblyName>DC.Build.Tasks</AssemblyName>
+    <RootNamespace>DC.Build.Tasks</RootNamespace>
+    <PackageId>DC.Build.Tasks</PackageId>
+    <Product>DC.Build.Tasks</Product>
+    <AssemblyTitle>DC.Build.Tasks</AssemblyTitle>
+    <Authors>DATACENTRUM systems &amp; consulting, a.s.</Authors>
+    <Company>DATACENTRUM systems &amp; consulting, a.s.</Company>
+    <Description>DATACENTRUM MSBuild Tasks</Description>
+    <Copyright>DATACENTRUM systems &amp; consulting, a.s.</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Build.Framework" Version="15.1.1012" />
+    <PackageReference Include="Microsoft.Build.Utilities.Core" Version="15.1.1012" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DC.Build.Tasks", "DC.Build.Tasks.csproj", "{1893AC82-D4AD-46BF-852E-8DDB1517DAA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1893AC82-D4AD-46BF-852E-8DDB1517DAA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1893AC82-D4AD-46BF-852E-8DDB1517DAA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1893AC82-D4AD-46BF-852E-8DDB1517DAA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1893AC82-D4AD-46BF-852E-8DDB1517DAA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 1
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://vmw-tfs-srv:8080/tfs/defaultcollection
+		SccProjectUniqueName0 = DC.Build.Tasks.csproj
+		SccProjectName0 = .
+		SccAuxPath0 = http://vmw-tfs-srv:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+EndGlobal
